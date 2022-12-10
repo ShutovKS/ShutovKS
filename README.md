@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm <a target="_blank">Kirill</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Programmer science student from Russia</h3>
+<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&center=%D0%BB%D0%BE%D0%B6%D1%8C&vCenter=%D0%BB%D0%BE%D0%B6%D1%8C&width=470&lines=Programmer+science+student+from+Russia" alt="Typing SVG" /></a> 
+<!-- https://readme-typing-svg.demolab.com/demo/ -->
+
 
 <div id="header" align="center">
   <img src="https://github.com/ShutovKS/ShutovKS/blob/main/webndevelop.gif" width="250"/>
