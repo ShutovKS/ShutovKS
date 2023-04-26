@@ -1,6 +1,6 @@
 <h1 align="center"> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> 
-  Greetings, I am Kirill 
+  Greetings, my name is Kirill 
 </h1>
 
 <div align="center"> 
@@ -29,12 +29,13 @@
 </h3>
 
 <div align="center">
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShutovKS&show_icons=true&theme=dark) <!-- (https://github.com/anuraghazra/github-readme-stats) -->
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=ShutovKS&stroke=A2A2A2&ring=A2A2A2&fire=0000FF&currStreakNum=0000FF&sideNums=0000FF&currStreakLabel=0000FF)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=ShutovKS&theme=dark) <!--  (https://git.io/streak-stats)  -->
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShutovKS&show_icons=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShutovKS&langs_count=8)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShutovKS&theme=dark) <!-- (https://github.com/anuraghazra/github-readme-stats) -->
+
   
 </div>
 
