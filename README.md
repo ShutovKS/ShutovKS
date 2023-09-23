@@ -14,18 +14,6 @@
 </div>
 
 <h3>
- :hammer_and_wrench: Tech Stack:
-</h3>
-
-<div align="center">
-<code><img height="75" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#" /></code>
-<code><img height="75" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity" /></code>
-<code><img height="75" src="https://cdn.iconscout.com/icon/free/png-256/free-visualstudio-1-1174964.png" alt="Visual Studio" title="Visual Studio" /></code>
-<code><img height="75" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
-<code><img height="75" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" title="Selenium" /></code>
-</div>
-
-<h3>
  :fire: My Stats :
 </h3>
 
