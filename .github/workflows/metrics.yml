@@ -31,5 +31,5 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Moscow
           plugin_calendar: yes
-          plugin_calendar_limit: 1
+          plugin_calendar_limit: 2
           plugin_traffic: yes
