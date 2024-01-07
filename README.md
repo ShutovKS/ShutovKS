@@ -1,6 +1,5 @@
 <h2 align="center">
- <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
- Greetings, my name is Kirill
+ Hello, my name is Kirill
 </h2>
 
 <h3 align="center">
@@ -20,3 +19,7 @@
   ![](https://visitcount.itsvg.in/api?id=ShutovKS&icon=0&color=0)
 
 </div>
+
+![Metrics](/github-metrics.svg)
+
+<palign="center"><imgsrc="/github-metrics.svg" alt="Metrics" width="400"></p>
