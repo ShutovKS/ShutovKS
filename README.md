@@ -6,20 +6,4 @@
  I'm Unity Developer
 </h3> 
 
-<div align="center">
-  
- ![GitHub Streak](https://streak-stats.demolab.com?user=ShutovKS&theme=dark) <!--  (https://git.io/streak-stats)  -->
-
-</div>
-
----
-
-<div align="center">
-
-  ![](https://visitcount.itsvg.in/api?id=ShutovKS&icon=0&color=0)
-
-</div>
-
-![Metrics](/github-metrics.svg)
-
-<palign="center"><imgsrc="/github-metrics.svg" alt="Metrics" width="400"></p>
+![Metrics](https://metrics.lecoq.io/ShutovKS?template=classic&calendar=1&traffic=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&calendar=false&calendar.limit=1&traffic=false&config.timezone=Europe%2FMoscow)
