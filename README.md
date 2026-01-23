@@ -5,9 +5,3 @@ Hello, my name is Kirill
 <h3 align="center">
 I'm Unity Developer
 </h3>
-
-<div align="center">
-
-![Metrics](github-metrics.svg)
-
-</div>
